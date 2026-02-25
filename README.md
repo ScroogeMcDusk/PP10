@@ -141,4 +141,4 @@ chlmt.db
 
 # Скриншот Сваггера
 
-![[screenshot-swagger.png]]
+![](screenshot-swagger.png)
